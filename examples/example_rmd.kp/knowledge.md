@@ -1,14 +1,13 @@
 ---
 title: This is a Knowledge Template Header
 authors:
-- sally_smarts
 - wesley_wisdom
 - gerald_genius
 tags:
 - knowledge
 - example
 created_at: 2016-06-29 00:00:00
-updated_at: 2017-12-09 12:05:14.843982
+updated_at: 2017-12-09 12:17:03.145412
 tldr: This is short description of the content and findings of the post.
 thumbnail: images/unnamed-chunk-1-1.png
 ---
